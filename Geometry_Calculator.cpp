@@ -1,9 +1,5 @@
-//
-//  main.cpp
-//  Geometry_Calculator
-//
-// Mehraj Hasan Nafi
-//
+// COMSC-210 | Lab 12 | Mehraj Hasan Nafi
+// IDE used: VSC and XCode
 
 #include <iostream>
 #include <iomanip>
